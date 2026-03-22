@@ -1,0 +1,12 @@
+state: BOOTSTRAPPED
+
+last_verified_entry: null
+
+invariants:
+
+  deterministic_outputs: true
+  append_only_ledger: true
+  repository_rooted_execution: true
+  fail_closed_verification: true
+  no_silent_state_repair: true
+  no_manual_override: true
