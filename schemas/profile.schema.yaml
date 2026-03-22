@@ -1,0 +1,25 @@
+type: object
+
+required:
+
+  - profile_id
+  - version
+  - constraints
+  - permissions
+
+properties:
+
+  profile_id:
+    type: string
+
+  version:
+    type: string
+
+  description:
+    type: string
+
+  constraints:
+    type: object
+
+  permissions:
+    type: object
