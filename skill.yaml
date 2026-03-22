@@ -1,8 +1,8 @@
 name: agent-memory
 description: |
-  Deterministic memory and governance substrate for long-running agent work.
-  Provides append-only ledger management, profile verification,
-  deterministic bootstrap, and fail-closed recovery behavior.
+  This repository provides a reliable way to keep track of long‑running work
+  and the decisions behind it. The system is fully self-describing and requires
+  no prior context to operate correctly.
 
 metadata:
   author: user
