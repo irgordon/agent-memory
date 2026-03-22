@@ -1,6 +1,7 @@
 # Agent Memory Skill
 
-A deterministic governance and memory substrate for structured agent workflows.
+Purpose:
+This repository provides a reliable way to keep track of long‑running work and the decisions behind it.
 
 This repository implements:
 
