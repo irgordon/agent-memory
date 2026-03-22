@@ -1,0 +1,16 @@
+profile_id: general
+
+version: 1.0.0
+
+description: Default execution profile
+
+constraints:
+
+  deterministic_execution: true
+  append_only_history: true
+  fail_closed_verification: true
+
+permissions:
+
+  allow_recovery: true
+  allow_entry_append: true
