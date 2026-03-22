@@ -1,0 +1,12 @@
+name: agent-memory
+description: |
+  Deterministic memory and governance substrate for long-running agent work.
+  Provides append-only ledger management, profile verification,
+  deterministic bootstrap, and fail-closed recovery behavior.
+
+metadata:
+  author: user
+  version: 1.0.0
+  deterministic: true
+  append_only: true
+  fail_closed: true
