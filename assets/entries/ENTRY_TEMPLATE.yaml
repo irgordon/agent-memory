@@ -1,0 +1,13 @@
+entry_id: ENTRY-YYYY-MM-DD-NNN
+timestamp: null
+actor: null
+action: null
+description: null
+
+state_transition:
+  from: null
+  to: null
+
+verification:
+  verified: false
+  verifier: null
